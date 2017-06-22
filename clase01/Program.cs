@@ -10,6 +10,7 @@ namespace clase01
     {
         static void Main(string[] args)
         {
+            var uno = "hola mundo 01";
         }
     }
 }
